@@ -14562,8 +14562,8 @@
   {
     "name": "IRAKLION",
     "identifier": "IRA",
-    "latitude": 35.340744444,
-    "longitude": 25.185144444,
+    "latitude": 35.34075,
+    "longitude": 25.18514,
     "elevation": 106,
     "frequency": 10880,
     "receptionRange": 130,
@@ -24982,8 +24982,8 @@
   {
     "name": "PALEOCHORA",
     "identifier": "PLH",
-    "latitude": 35.227636111,
-    "longitude": 23.680844444,
+    "latitude": 35.22764,
+    "longitude": 23.68083,
     "elevation": 120,
     "frequency": 11460,
     "receptionRange": 130,
@@ -31332,8 +31332,8 @@
   {
     "name": "SITIA",
     "identifier": "SIT",
-    "latitude": 35.068422222,
-    "longitude": 26.189063889,
+    "latitude": 35.06842,
+    "longitude": 26.18906,
     "elevation": 2631,
     "frequency": 11330,
     "receptionRange": 130,
